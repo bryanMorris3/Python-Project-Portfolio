@@ -1,0 +1,3 @@
+import dieroll
+
+dieroll.dieRoll()
